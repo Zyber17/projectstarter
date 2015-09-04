@@ -1,0 +1,25 @@
+{
+  "name": "projectstarter",
+  "version": "0.1.0",
+  "description": "My personal project starting CLI tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zyber17/projectstarter.git"
+  },
+  "keywords": [
+    "CLI",
+    "project",
+    "initalization"
+  ],
+  "author": "Zackary Corbett",
+  "license": "Unlicense",
+  "preferGlobal": true,
+  "bugs": {
+    "url": "https://github.com/Zyber17/projectstarter/issues"
+  },
+  "homepage": "https://github.com/Zyber17/projectstarter#readme"
+}
